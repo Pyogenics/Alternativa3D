@@ -1,0 +1,9 @@
+{
+    "type": "lib",
+    "compilerOptions": {
+        "source-path": ["src"],
+        "include-sources": ["src"],
+        "library-path": ["libs"],
+        "output": "bin/Alternativa3D8.32.0.swc"
+    }
+}
