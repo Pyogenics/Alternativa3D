@@ -1,0 +1,10 @@
+{
+    "type": "lib",
+    "config": "air",
+    "compilerOptions": {
+        "library-path": ["libs"],
+        "source-path": ["src"],
+        "include-sources": ["src"],
+        "output": "bin/Alternativa3D-8.32.0.swc"
+    }
+}
